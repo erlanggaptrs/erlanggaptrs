@@ -1,7 +1,6 @@
-[![HeadPAge](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Heyy There! I am Gaga aka erlanggaptrs</h1>
 <h3 align="center">I am a Student, Newbie Developer and also a Gamers!</h3>
-(img align="right" alt="Programmer" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC")
+
 
 
 
