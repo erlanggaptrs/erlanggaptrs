@@ -1,4 +1,4 @@
-# 🏄‍♂️ Gagahadid
+# 👨‍💻 Gagahadid
 
 **`(Student/Developer/Streamer)`**
 
