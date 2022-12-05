@@ -19,7 +19,6 @@ Hey! I am Erlangga Putera Setiawan and currently i am still pursuing my Degree o
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
@@ -27,7 +26,7 @@ Hey! I am Erlangga Putera Setiawan and currently i am still pursuing my Degree o
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlanggaptrs  &show_icons=true&theme=radical)
+![Gaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlanggaptrs&show_icons=true&theme=radical)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=erlanggaptrs&theme=radical&border_radius=4.5) -->
 
