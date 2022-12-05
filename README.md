@@ -1,8 +1,11 @@
 # Welcome To Gaga's Github!
+[![Linkedin Badge](https://img.shields.io/badge/-erlanggaptrs-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erlanggaptrs/)](https://www.linkedin.com/in/arizkinewbie/)
+[![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/erlanggaptrs/)](https://www.github.com/erlanggaptrs/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram&logoColor=red&link=https://instagram.com/erlanggaptrs/)](https://www.instagram.com/erlanggaptrs/) 
 
 **`(Student/Developer/Streamer)`**
 
-Hey! I am Erlangga Putera Setiawan and currently i am still pursuing my Degree on Majoring Computer Science at Esa Unggul University. I have a big interest on learning about Cloud Computing, Software Engineering, Web Development and also all of the newest technology that are happening on IT industry. In the meantime i just started learning about Linux, Data Engineering, Docker, Kubernetes, Cloud Networking, and DevOps. I am also a good player on some game such as Valorant (Radiant) and Mobile Legends (Ex Professional Player). I stream Valorant almost everynight at Tiktok @erlanggaptrs while making some content about my gameplay everyday.
+Hey! I am Erlangga Putera Setiawan but people used to call me Gaga. Currently i am still pursuing my Bachelor Degree on Majoring Computer Science at Esa Unggul University. I have a big interest on learning about Cloud Computing, Software Engineering, Web Development and also all of the newest technology that are happening on IT industry. In the meantime i just started learning about Linux, Data Engineering, Docker, Kubernetes, Cloud Networking, and DevOps. I am also a good player on some game such as Valorant (Radiant) and Mobile Legends (Ex Professional Player). I stream Valorant almost everynight at Tiktok @erlanggaptrs while making some content about my gameplay everyday.
 
 ---
 
