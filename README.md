@@ -27,12 +27,6 @@ Hey! I am Erlangga Putera Setiawan but people used to call me Gaga. Currently i 
 
 #
 
-### 📊 Stats
-
-![Gaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlanggaptrs&show_icons=true&theme=radical)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=erlanggaptrs&theme=radical&border_radius=4.5) -->
-
 #
 
 <details>
