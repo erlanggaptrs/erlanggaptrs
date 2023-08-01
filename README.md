@@ -27,8 +27,6 @@ Hey! I am Erlangga Putera Setiawan but people used to call me Gaga. Currently i 
 
 #
 
-#
-
 <details>
  <summary><h3> 👨‍💻 Gaga's Coding Journey</h3></summary>
    Currently i just started to learn about Linux, Data Engineering, Docker, Kubernetes, Cloud Networking, and DevOps. Once i finished every of my project or study, i will definitely posted it here on my repository! you guys have a good one aight!
