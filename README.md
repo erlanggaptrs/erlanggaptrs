@@ -5,7 +5,7 @@
 
 **`(Student/Developer/Streamer)`**
 
-Hey! I am Erlangga Putera Setiawan but people used to call me Gaga. Currently i am still pursuing my Bachelor Degree on Majoring Computer Science at Esa Unggul University. I have a big interest on learning about Cloud Computing, Software Engineering, Web Development and also all of the newest technology that are happening on IT industry. In the meantime i just started learning about Linux, Data Engineering, Docker, Kubernetes, Cloud Networking, and DevOps. I am also a good player on some game such as Valorant (Radiant) and Mobile Legends (Ex Professional Player). I stream Valorant almost everynight at my Tiktok @erlanggaptrs while making some content about my gameplay everyday.
+Hey! I am Erlangga Putera Setiawan but people used to call me Gaga. Currently i am still pursuing my Bachelor Degree on Majoring Computer Science at Esa Unggul University. I have a big interest on learning about Cloud Computing, Software Engineering, Web Development and also all of the newest technology that are happening on IT industry. In the meantime i just started learning about Linux, Data Engineering, Docker, Kubernetes, Cloud Networking, and DevOps. 
 
 ---
 
